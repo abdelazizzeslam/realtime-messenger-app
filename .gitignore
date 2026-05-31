@@ -1,0 +1,20 @@
+# Flutter
+.DS_Store
+*.pyc
+__pycache__/
+
+# Dependencies
+/pubspec.lock
+/node_modules/
+
+# Environment
+.env
+*.key
+
+# Build outputs
+/build/
+/ios/Pods/
+
+# IDE
+.vscode/
+.idea/
